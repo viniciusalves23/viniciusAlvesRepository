@@ -1,12 +1,12 @@
-- 👋 Olá, eu sou o Vinicius de Souza Alves;
-- 🖥️ Atualmente sou Estagiário em Desenvolvimento de Software Full Stack;
-  - 🔨 Tecnologias:
-      - Back-end: C#;
-      - Banco de Dados: PL/SQL;
-      - Front-end: HTML, CSS, JavaScript, Bootstrap, Requisições AJAX;
-      - Outras: ASP.NET MVC, ASP, Azure DevOps, Visual Studio, Orange Testing;
-- 🌱 Estudando HTML, CSS, Javascript, Typescript, NodeJS, ReactJS e Angular;
-- 📫 Contate-me no email: viniciussouzaalves@gmail.com.
+- 👋 Olá, eu sou o Vinicius de Souza Alves
+- 🖥️ Atualmente sou Estagiário em Desenvolvimento de Software Full Stack
+  - 🔨 Tecnologias
+      - Back-end: C#
+      - Banco de Dados: PL/SQL
+      - Front-end: HTML, CSS, JavaScript, Bootstrap, Requisições AJAX
+      - Outras: ASP.NET MVC, ASP, Azure DevOps, Visual Studio, Orange Testing
+- 🌱 Estudando HTML, CSS, Javascript, Typescript, NodeJS, ReactJS e Angular
+- 📫 Contate-me no email: viniciussouzaalves@gmail.com
   
 <div align="center">
   <a href="https://github.com/haruoSugano">
