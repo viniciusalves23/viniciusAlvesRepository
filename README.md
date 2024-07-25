@@ -1,8 +1,8 @@
 - 👋 Olá, eu sou o Vinicius de Souza Alves
-- 🖥️ Atualmente sou Estagiário em Desenvolvimento de Software Full Stack
+- 🖥️ Atualmente sou Desenvolvedor de Software FullStack Junior e Técnico DevOps Pleno.
   - 🔨 Tecnologias
       - Back-end: C#
-      - Banco de Dados: PL/SQL
+      - Banco de Dados: PL/SQL, Oracle Database, MySQL Workbench
       - Front-end: HTML, CSS, JavaScript, Bootstrap, Requisições AJAX
       - Outras: ASP.NET MVC, ASP, Azure DevOps, Visual Studio, Orange Testing
 - 🌱 Estudando HTML, CSS, Javascript, Typescript, NodeJS, ReactJS e Angular
